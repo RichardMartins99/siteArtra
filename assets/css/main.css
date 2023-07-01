@@ -2825,8 +2825,8 @@ input, select, textarea {
 		.main.style2 {
 			background-color: #333;
 			color: rgba(255, 255, 255, 0.75);
-			background-attachment: fixed,							fixed;
-			background-image: url("images/overlay1.png"), url("../../images/space.jpg");
+			background-attachment:fixed,							fixed;
+			background-image: url("images/overlay1.png"), url("../../images/spacecopy.jpg");
 			background-size: auto,							cover;
 		}
 
